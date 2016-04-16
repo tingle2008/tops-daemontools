@@ -1,0 +1,12 @@
+---
+default:
+  build: '1'
+  name: tops-daemontools
+  release: '1'
+  summary: A collection of tools for managing UNIX services.
+  version: '0.76'
+  sourcetar: daemontools-0.76.tar.gz
+x86_64:
+ nobuild: 1
+ preferarch: i386
+
